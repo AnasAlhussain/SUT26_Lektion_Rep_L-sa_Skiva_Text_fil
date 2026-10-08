@@ -1,4 +1,6 @@
-﻿namespace SUT26_Lektion_Rep_Läsa_Skiva_Text_fil
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace SUT26_Lektion_Rep_Läsa_Skiva_Text_fil
 {
     internal class Program
     {
@@ -159,7 +161,14 @@
             }
 
 
+
+             
+
+
             Console.ReadKey();
+
+
+            
         }
     }
 }

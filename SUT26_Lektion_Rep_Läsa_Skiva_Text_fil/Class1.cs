@@ -6,6 +6,12 @@ namespace SUT26_Lektion_Rep_Läsa_Skiva_Text_fil
 {
     internal class Class1
     {
+        public int ID { get; set; }
 
+
+        public Class1()
+        {
+            
+        }
     }
 }
